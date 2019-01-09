@@ -2,7 +2,6 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  'ErrorFormulae.py'
  Copyright (C) 2017 Jessica Kirkby-Kent
- Contact: j.kirkbykent@gmail.com
  Ver. 1.000 (For python 2.7)
  --Part of pyebop.py--
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
