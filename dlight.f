@@ -1,7 +1,6 @@
 C ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 C 'dlight.f'
 C Copyright (C) 2017 Jessica Kirkby-Kent & Pierre Maxted
-C Contact: j.kirkbykent@gmail.com
 C Ver. 1.000 (For python 2.7)
 C --Part of pyebop.py--
 C ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
