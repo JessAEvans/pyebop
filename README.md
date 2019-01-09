@@ -12,18 +12,13 @@
   
   Note this code was written for Python 2.7. Most of the code will tranclate to Python 3
    but I have not found an equivalent of f2py for Python 3.
-  
-
- ##############################################################################  
+ 
      
-    IF YOU FIND THIS CODE USEFUL IN YOUR RESEARCH PLEASE CITE:  
+   ** IF YOU FIND THIS CODE USEFUL IN YOUR RESEARCH PLEASE CITE:  **  
          
-       [Kirkby-Kent et al., 2016, A&A, 591, A124]
-			(http://adsabs.harvard.edu/abs/2016A%26A...591A.124K)  
+       [Kirkby-Kent et al., 2016, A&A, 591, A124](http://adsabs.harvard.edu/abs/2016A%26A...591A.124K)  
                  
-  ##############################################################################
-  
-  
+ 
 ###  OTHER REQUIRED PACKAGES:
  
    * numpy  
@@ -31,9 +26,9 @@
    * matplotlib  
    * [emcee*] (http://dfm.io/emcee/current/#)  
    * [corner*] (https://corner.readthedocs.io/en/latest/)  
-   * mpfit** there is a version included or [here](https://code.google.com/archive/p/astrolibpy/downloads)  
+   * mpfit there is a version included or [here](https://code.google.com/archive/p/astrolibpy/downloads)  
 
-  *Note emcee and corner are only needed for the MCMC runs.
+  * Note emcee and corner are only needed for the MCMC runs.
   
 ###  FILES THAT SHOULD BE INCLUDED:
 
